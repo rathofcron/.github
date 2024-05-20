@@ -2,6 +2,8 @@
 
 Welcome to our organization page.
 
+(Org Wiki)[https://github.com/rathofcron/.github/wiki]
+
 <!--
 
 **Here are some ideas to get you started:**
