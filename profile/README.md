@@ -2,7 +2,7 @@
 
 Welcome to our organization page.
 
-(Org Wiki)[https://github.com/rathofcron/.github/wiki]
+[Org Wiki](https://github.com/rathofcron/.github/wiki)
 
 <!--
 
